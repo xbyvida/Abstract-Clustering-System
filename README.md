@@ -14,7 +14,7 @@ For text clustering task, we need features including :
 For session assignment task, we features including evaluator ratings and comments.
 
 ## Text Clustering
-### Propossess
+### Prepossess
 
 After tokenization and removing stopwords, we lemmatize each word and transform some terms to their abbreviation to avoid redundancy. (see word list)
 
