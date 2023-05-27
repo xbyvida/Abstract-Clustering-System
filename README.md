@@ -1,5 +1,6 @@
 # Abstract Clustering System
 @Boya Xu and @Zhangqi Chen
+
 This project is used for text clustering for 2020 Marketing Conference. The general idea of this project is to group the papers with similar topics into the same cluster. Then, papers with similar topics are assigned to different sessions based on the average evaluator ratings.
 
 ## Data
